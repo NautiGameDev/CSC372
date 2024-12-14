@@ -1,2 +1,1 @@
-# CSC372
-Projects and assignments for CSC372 Programming 2
+A collection of projects and assignments for Programming II class.
