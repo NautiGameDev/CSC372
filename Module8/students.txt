@@ -1,0 +1,4 @@
+Name: Alan Samson || Address: 456 Nowehere Blvd. || GPA: 3.8
+Name: Chris Russell || Address: 123 Somewhere Lane || GPA: 4.0
+Name: Jessica Florez || Address: 789 Overthere St || GPA: 3.9
+Name: Timothy Mazarati || Address: 911 Emergency Circle || GPA: 3.0
